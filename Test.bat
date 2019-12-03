@@ -1,1 +1,1 @@
-echo "this is a test repository"
+echo "this is a test repository Github repository"
